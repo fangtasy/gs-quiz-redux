@@ -1,0 +1,36 @@
+.prev{
+	margin:20px;
+}
+.next{
+	float: right;
+	margin:20px;
+	right: 0px;
+}
+.content{
+
+	position: absolute;
+	left:50%;
+	top:50%;
+	width: 60%;
+	height: auto;
+	background-color: skyblue;
+  	border-radius: 20px;
+  	transform: translate(-50%,-50%);
+}
+.score{
+	text-align: center;
+	padding: 10px;
+	position: absolute;
+	left:50%;
+	top:50%;
+	width: 60%;
+	height: 300px;
+	background-color: skyblue;
+  	border-radius: 20px;
+  	transform: translate(-50%,-50%);
+}
+.result{
+	margin: 20px;
+	font-size: 1.5em;
+
+}

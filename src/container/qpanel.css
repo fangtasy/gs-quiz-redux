@@ -1,0 +1,17 @@
+.qpanel{
+	
+	height: auto;
+	padding: 10px;
+
+}
+.title{
+	font-size: 1.5em;
+	margin: 10px;
+}
+.contents{
+	display: flex;
+	width: 100%;
+	margin: 2px 0;
+	font-size: 1.0em;
+	
+}

@@ -1,0 +1,24 @@
+[
+
+    {
+        "id": 1,
+        "question": "Question 1: What is Lorem Ipsum? ",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text since the 1500s",
+        "answers": [{"id":"A","answer":"Yes", "point":3},{"id":"B","answer":"No", "point":0}]
+        
+    },
+    {
+        "id": 2,
+        "question": "Question 2: Where does it come from?",
+        "description": "Contray to popular belief, Lorem Ipsum is not simply random text. It has roots in aplace of classical Latin literature from 45BC",
+        "answers": [{"id":"A","answer":"Whatever!", "point":3},{"id":"B","answer":"Ohk!!", "point":2},{"id":"C","answer":"Hmmm...Maybe", "point":1},{"id":"D","answer":"Yeah!!", "point":0}]
+        
+    },
+    {
+        "id": 3,
+        "question": "Question 3: Who answers the questions",
+        "description": "Tell me about your self!",
+        "answers": [{"id":"A","answer":"Ok", "point":3},{"id":"B","answer":"Sorry, I can't", "point":2},{"id":"C","answer":"Emmmmm", "point":0}]
+        
+    }
+]

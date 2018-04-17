@@ -1,0 +1,19 @@
+.apanel{
+	margin:10px;
+	display: flex;
+	justify-content: center;
+}
+.answer{
+	
+	margin:2px;
+	padding: 1px;
+	width: 100px;
+	height: 60px;
+	border-radius: 8px;
+}
+@media screen and (max-width: 768px) {
+    answer{
+        background-color: lightgreen;
+    }
+}
+
